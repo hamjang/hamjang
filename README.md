@@ -15,12 +15,12 @@
 **연구학점제**
 - dacon 경진대회, 소셜 네트워크 분석, ML/deep learning, NLP
 - 언어 : Python, R
-- github :
+- github : https://github.com/hamjang/Study
 
 **도전학기제**
 - 한국어 기반 지식그래프 구축
 - 언어 : Python
-- github :
+- github : https://github.com/hamjang/2023project
 
 **Study**
 - ML/deep learning 등 
