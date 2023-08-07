@@ -1,6 +1,6 @@
 # 함승훈 
-E-mail : seunghun5321@gmail.com
-github : https://github.com/hamjang
+- E-mail : seunghun5321@gmail.com
+- github : https://github.com/hamjang
 
 ## Tech
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
