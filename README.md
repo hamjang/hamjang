@@ -1,11 +1,3 @@
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/hamjang/hamjang/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
